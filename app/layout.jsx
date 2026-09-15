@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Next.js Dashboard',description:'Next.js starter dashboard'}; export default function Layout({children}){return <html><body>{children}</body></html>}
